@@ -34,7 +34,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Jodrack**
 
-- GitHub: [@githubhandle](https://github.com/joseph07-drack)
+- GitHub: [@Jodrack](https://github.com/joseph07-drack)
+- LinkedIn: [Jodrack](https://www.linkedin.com/in/joseph-buingo-ab2682225/)
 
 ## 🤝 Contributing
 
