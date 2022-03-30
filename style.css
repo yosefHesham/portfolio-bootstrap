@@ -1,0 +1,16 @@
+.navbar-brand {
+  font-size: 2rem !important;
+}
+
+ul {
+  list-style: none;
+}
+
+.showcase {
+  background-image: url('./images/header-shape-desktop.png');
+  background-color: #fff;
+  background-size: 100% 95%;
+  border-bottom-left-radius: 110px;
+  height: 90vh;
+  padding: 120px;
+}
