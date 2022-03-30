@@ -15,7 +15,15 @@ ul {
   padding: 120px;
 }
 
-.card {
-  width: 80%;
+.intro {
+  margin-top: 60px;
 }
 
+#portfolio {
+  margin-top: 60px;
+}
+
+#portfolio .card {
+  margin: 0 auto;
+  max-width: 70%;
+}
