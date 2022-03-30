@@ -27,3 +27,8 @@ ul {
   margin: 0 auto;
   max-width: 70%;
 }
+
+.aboutme {
+  border-top-right-radius: 90px;
+  border: none;
+}
